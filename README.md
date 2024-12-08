@@ -2,3 +2,5 @@ dataset: https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset
 
 
 Custom Image Captioning model, built on ENCODER - ATTENTION - DECODER architecture.
+
+<a href="[https://stackoverflow.com/](https://lh3.googleusercontent.com/d/1wdddaLit7iEyCcVy5bS505NiYzL6c-4x=w1000?authuser=0)"><img src="RELATIVE_PATH_TO_IMAGE></img></a>
